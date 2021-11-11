@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thiago Campos - @thiagoscampos7
+- 👋 Hi, I’m Thiago Campos - @thiagoscampos7. Eng Mec and analysis and systems development
 - 👀 I’m interested in data analyst
 - 🌱 I’m currently learning Tableau and Phyton
 - 💞️ I’m looking to collaborate on construction of panels for data analysis on the tableau
